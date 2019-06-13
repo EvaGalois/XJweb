@@ -23,7 +23,7 @@ $helps->myfwrite($filename, $data);
 
 $mysign = md5($data);
 
-if ($sign == $mysign) {
+if ($sign = $mysign) {
     echo 'success';
 } else {
     echo 'signerr';
