@@ -1,0 +1,1 @@
+-------------------------------------------------\r\nformat=json&mch_id=12651&notify_url=http://coin.test/notify.php&out_trade_no=1560417494&pay_type=alipay.web&remark=金额输入框页的测试&return_url=http://coin.test/return.php&total_fee=10.00&version=1.0&nq5DjycsFbZwPLJQ0M1YBzdgIafReUit
